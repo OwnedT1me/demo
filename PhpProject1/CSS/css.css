@@ -1,0 +1,41 @@
+body{
+    background-image: url(1.jpg);
+    background-color: #AFEEEE;
+    
+}
+td{
+    text-align: top;
+   
+}
+table {
+    font-family: sans-serif;
+    background: #000000;
+    border: 16px solid #DFF6E7;
+    border-radius: 20px;
+   
+}
+td{
+    background: #F6E3C1;
+}
+#hide{
+ background: #F2D8A6;   
+}
+button{
+    border-radius: 20px;    
+}
+button:hover{
+    border: 3px solid red;
+}
+a:hover{
+    color: blue;
+   
+}
+.aaa{
+border: 3px solid #F5539C;    
+}    
+.a1{
+border: 3px solid red;    
+}
+
+
+
